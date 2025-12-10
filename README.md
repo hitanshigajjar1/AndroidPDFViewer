@@ -9,7 +9,9 @@
 ---
 
 ### Demo Video
-<img src="screenshots/demo.gif" height="320"/>
+<div align="center">
+  <img src="app/src/main/assets/video.gif" height="320"/>
+</div>
 
 ---
 
