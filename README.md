@@ -44,7 +44,7 @@ dependencyResolutionManagement {
 
 ```gradle
 dependencies {
-    implementation 'com.github.YourUsername:PDFBuilderViewer:1.0.0'
+	        implementation("com.github.Excelsior-Technologies-Community:AndroidPDFViewer:1.0.1")
 }
 ```
 
